@@ -1,0 +1,30 @@
+[
+  {
+    "time": 0.0,
+    "easing": "cubic-in-out",
+    "dotOne": 0.0,
+    "dotTwo": 0.0,
+    "line": 0.0
+  },
+  {
+    "time": 1.0,
+    "easing": "cubic-in-out",
+    "dotOne": 1.0,
+    "dotTwo": 0.0,
+    "line": 0.0
+  },
+  {
+    "time": 2.0,
+    "easing": "cubic-in-out",
+    "dotOne": 1.0,
+    "dotTwo": 1.0,
+    "line": 0.0
+  },
+  {
+    "time": 3.0,
+    "easing": "cubic-in-out",
+    "dotOne": 1.0,
+    "dotTwo": 1.0,
+    "line": 1.0
+  }
+]

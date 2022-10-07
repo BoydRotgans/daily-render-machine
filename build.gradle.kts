@@ -29,7 +29,7 @@ val orxFeatures = setOf<String>(
 //  "orx-interval-tree",
 //  "orx-jumpflood",
 //  "orx-kdtree",
-//  "orx-keyframer",      
+    "orx-keyframer",
 //  "orx-kinect-v1",
 //  "orx-kotlin-parser",
 //  "orx-mesh-generators",
